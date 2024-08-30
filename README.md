@@ -4,7 +4,7 @@ En este repositorio encontrarás:
 
 * Ejercicios para practicar (resueltos)
   * [Ejercicios nivel básico/medio y arreglos numéricos](https://github.com/PedrodiazH/Ayudantia-PythonUBB2024-2/blob/main/Ejercicios%20practicos/Ejercicios_python_1.pdf)
-  * [Ejercicios estructuras de datos]
+  * [Ejercicios estructuras de datos](https://github.com/PedrodiazH/Ayudantia-PythonUBB-ICA-2024-2/blob/main/Ejercicios%20practicos/Ejercicios_python_Estructuras_de_datos.pdf)
   * [Ejercicios Numpy]
   * [Ejercicios Pandas]
   * [Ejercicios archivos]
