@@ -17,4 +17,4 @@ En este repositorio encontrarás:
   * [Modularización](https://docs.python.org/es/3/tutorial/modules.html)
   * [Clases](https://docs.python.org/es/3/tutorial/classes.html)
   * [Numpy para usuarios de MATLAB](https://numpy.org/devdocs/user/numpy-for-matlab-users.html)
-  * [Módulo argparse](https://docs.python.org/es/3/library/argparse.html) ------------> [Ejemplo sencillo de uso módulo argparse](https://github.com/PedrodiazH/Ayudantia-PythonUBB-ICA-2024-2/blob/main/Apuntes/Ejemplo_argparse.py)
+  * [Módulo argparse](https://docs.python.org/es/3/library/argparse.html) ----------------> [Ejemplo sencillo de uso módulo argparse](https://github.com/PedrodiazH/Ayudantia-PythonUBB-ICA-2024-2/blob/main/Apuntes/Ejemplo_argparse.py)
