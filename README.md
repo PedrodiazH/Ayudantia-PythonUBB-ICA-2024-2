@@ -8,9 +8,10 @@ En este repositorio encontrarás:
   * [Ejercicios POO]
   * [Ejercicios Numpy]
   * [Ejercicios Pandas]
-  * [Ejercicios archivos]
 * Apuntes
-  * [Estructuras de datos mas comunes](https://github.com/PedrodiazH/Ayudantia-PythonUBB2024-2/blob/main/Apuntes/Estructura_de_Datos___Python_Cient%C3%ADfico.pdf)  
+  * [Estructuras de datos mas comunes](https://github.com/PedrodiazH/Ayudantia-PythonUBB2024-2/blob/main/Apuntes/Estructura_de_Datos___Python_Cient%C3%ADfico.pdf)
+  * [Matplotlib]
+  * [Scikit-learn]
 * Material extra
 * Atajos a documentacion oficial
   * [Funciones incorporadas en Python](https://docs.python.org/es/3/library/functions.html)
