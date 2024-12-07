@@ -13,7 +13,7 @@ En este repositorio encontrarás:
   * [Matplotlib]
   * [Scikit-learn]
   * [Expresiones regulares]
-  * [Módulo os y shutil]
+  * [Módulo os y shutil] ----------------> [Ejemplos]
 * Material extra
 * Atajos a documentacion oficial
   * [Funciones incorporadas en Python](https://docs.python.org/es/3/library/functions.html)
