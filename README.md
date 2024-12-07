@@ -1,4 +1,4 @@
-# Ayudantía-PythonUBB2024-2
+# Ayudantía-PythonUBB-ICA-2024-2
 
 En este repositorio encontrarás:
 
